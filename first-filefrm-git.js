@@ -1,1 +1,1 @@
-from web
+const{test}=require("@playwrite/test")
